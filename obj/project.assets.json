@@ -3643,11 +3643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "a:\\RpgApi\\RpgApi.csproj",
+      "projectUniqueName": "a:\\3AI\\RpgApi\\RpgApi.csproj",
       "projectName": "RpgApi",
-      "projectPath": "a:\\RpgApi\\RpgApi.csproj",
+      "projectPath": "a:\\3AI\\RpgApi\\RpgApi.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "a:\\RpgApi\\obj\\",
+      "outputPath": "a:\\3AI\\RpgApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
