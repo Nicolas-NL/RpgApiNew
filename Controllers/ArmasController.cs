@@ -4,7 +4,7 @@ using RpgApi.Models;
 using RpgApi.Data;
 using Microsoft.EntityFrameworkCore;
 using RpgApi.Utils;
-
+using RpgApi.Models;
 namespace RpgApi.Controllers
 {
     public class ArmasController
@@ -23,6 +23,10 @@ namespace RpgApi.Controllers
                 await _context.Armas.AddAsync(novaArma);
                 await _context.SaveChangesAsync();
                 return Ok(novaArma.Id);
+            }
+            catch (Exception ex) 
+            {
+                
             }
         }
     }

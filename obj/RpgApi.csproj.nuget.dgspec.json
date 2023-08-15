@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Arquivos\\3AI\\RpgApi\\RpgApi.csproj": {}
+    "a:\\3AI\\RpgApi\\RpgApi.csproj": {}
   },
   "projects": {
-    "C:\\Arquivos\\3AI\\RpgApi\\RpgApi.csproj": {
+    "a:\\3AI\\RpgApi\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Arquivos\\3AI\\RpgApi\\RpgApi.csproj",
+        "projectUniqueName": "a:\\3AI\\RpgApi\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "C:\\Arquivos\\3AI\\RpgApi\\RpgApi.csproj",
+        "projectPath": "a:\\3AI\\RpgApi\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "C:\\Arquivos\\3AI\\RpgApi\\obj\\",
+        "outputPath": "a:\\3AI\\RpgApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
